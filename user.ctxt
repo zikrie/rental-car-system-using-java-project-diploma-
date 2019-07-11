@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=user()
+comment1.params=name\ ic\ age\ gender\ typeCar\ day\ hour
+comment1.target=user(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=n\ i\ a\ g\ t\ d\ h
+comment2.target=void\ setUser(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getIc()
+comment5.params=
+comment5.target=int\ getAge()
+comment6.params=
+comment6.target=java.lang.String\ getGender()
+comment7.params=
+comment7.target=java.lang.String\ getTypeCar()
+comment8.params=
+comment8.target=int\ getDay()
+comment9.params=
+comment9.target=int\ getHour()
+numComments=10
